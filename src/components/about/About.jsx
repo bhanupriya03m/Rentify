@@ -13,8 +13,7 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <p>Welcome to Rentify, your trusted partner in navigating the dynamic real estate market. As the world gradually recovers from the pandemic, we recognize the challenges and opportunities in finding the perfect rental home or the ideal tenant. With the increasing demand for real estate, particularly in bustling cities and IT hubs, Rentify is here to simplify the process and make it seamless for both property owners and tenants.</p>
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>
